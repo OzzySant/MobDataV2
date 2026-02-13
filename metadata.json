@@ -1,0 +1,5 @@
+{
+  "name": "MobData with Presentation",
+  "description": "Um console de apresentação para igrejas otimizado para tablets e desktops. Possui Bíblia, Harpa Cristã e visualização de projeção em tempo real.",
+  "requestFramePermissions": []
+}
